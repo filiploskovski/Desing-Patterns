@@ -1,0 +1,8 @@
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+D:\PersonalProjects\Desing Patterns\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb

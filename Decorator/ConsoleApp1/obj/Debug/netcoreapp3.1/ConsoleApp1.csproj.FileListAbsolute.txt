@@ -1,0 +1,11 @@
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\PersonalProjects\Desing Patterns\Decorator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

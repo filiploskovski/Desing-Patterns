@@ -1,0 +1,11 @@
+D:\PersonalProjects\Desing Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+D:\PersonalProjects\Desing Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+D:\PersonalProjects\Desing Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+D:\PersonalProjects\Desing Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+D:\PersonalProjects\Desing Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+D:\PersonalProjects\Desing Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+D:\PersonalProjects\Desing Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+D:\PersonalProjects\Desing Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+D:\PersonalProjects\Desing Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+D:\PersonalProjects\Desing Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+D:\PersonalProjects\Desing Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.pdb

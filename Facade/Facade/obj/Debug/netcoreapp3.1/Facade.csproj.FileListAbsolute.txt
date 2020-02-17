@@ -1,0 +1,11 @@
+D:\PersonalProjects\Desing Patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+D:\PersonalProjects\Desing Patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+D:\PersonalProjects\Desing Patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+D:\PersonalProjects\Desing Patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+D:\PersonalProjects\Desing Patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+D:\PersonalProjects\Desing Patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+D:\PersonalProjects\Desing Patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+D:\PersonalProjects\Desing Patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+D:\PersonalProjects\Desing Patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+D:\PersonalProjects\Desing Patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+D:\PersonalProjects\Desing Patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
