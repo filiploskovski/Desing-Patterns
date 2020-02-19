@@ -1,0 +1,11 @@
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+D:\PersonalProjects\Desing Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
