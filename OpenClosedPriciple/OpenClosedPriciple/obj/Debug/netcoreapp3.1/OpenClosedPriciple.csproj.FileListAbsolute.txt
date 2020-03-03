@@ -1,0 +1,11 @@
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\bin\Debug\netcoreapp3.1\OpenClosedPriciple.exe
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\bin\Debug\netcoreapp3.1\OpenClosedPriciple.deps.json
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\bin\Debug\netcoreapp3.1\OpenClosedPriciple.runtimeconfig.json
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\bin\Debug\netcoreapp3.1\OpenClosedPriciple.runtimeconfig.dev.json
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\bin\Debug\netcoreapp3.1\OpenClosedPriciple.dll
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\bin\Debug\netcoreapp3.1\OpenClosedPriciple.pdb
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\obj\Debug\netcoreapp3.1\OpenClosedPriciple.csprojAssemblyReference.cache
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\obj\Debug\netcoreapp3.1\OpenClosedPriciple.AssemblyInfoInputs.cache
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\obj\Debug\netcoreapp3.1\OpenClosedPriciple.AssemblyInfo.cs
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\obj\Debug\netcoreapp3.1\OpenClosedPriciple.dll
+D:\PersonalProjects\Desing Patterns\OpenClosedPriciple\OpenClosedPriciple\obj\Debug\netcoreapp3.1\OpenClosedPriciple.pdb
